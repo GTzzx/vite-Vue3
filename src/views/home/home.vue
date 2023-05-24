@@ -1,7 +1,5 @@
 <template>
-  <!--路由入口-->
-  <RouterView></RouterView>
-
+<h1>home</h1>
 
 
 </template>

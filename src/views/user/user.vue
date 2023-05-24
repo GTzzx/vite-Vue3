@@ -1,9 +1,5 @@
 <template>
-  <!--路由入口-->
-  <RouterView></RouterView>
-
-
-
+  <h1>user</h1>
 </template>
 <script setup lang="ts">
 

@@ -1,7 +1,5 @@
 <template>
-  <!--路由入口-->
-  <RouterView></RouterView>
-
+<h1>login</h1>
 
 
 </template>
